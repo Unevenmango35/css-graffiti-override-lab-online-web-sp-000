@@ -1,5 +1,5 @@
 /* write your override styles here */
 
-.parent #tag-4 {
+#wall .parent #tag-4 {
   display: none;
 }
