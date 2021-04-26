@@ -23,9 +23,6 @@ head body div#wall .parent div div#tag-6 {
   display: none;
 }
 
-b<div class="parent">
-  <div>
-    <div id="tag-7" class="slick"></div>
-  </div> {
+body div#wall .parent #tag-7.slick {
   display: none;
 }
