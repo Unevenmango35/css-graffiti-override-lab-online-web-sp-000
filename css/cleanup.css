@@ -1,4 +1,8 @@
 /* write your override styles here */
-#wall .tag-1 {
+#tag-3 .slick_wicked {
+  display: none;
+}
+
+.parent #tag_4 {
   display: none;
 }
